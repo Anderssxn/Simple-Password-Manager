@@ -1,0 +1,7 @@
+﻿  Main.cpp
+C:\Users\Andersson\Desktop\SimplePassManager\SimplePassManager\SimplePassManager\Main.cpp(91,18): warning C4834: discarding return value of function with 'nodiscard' attribute
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 176 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SimplePassManager.vcxproj -> C:\Users\Andersson\Desktop\SimplePassManager\SimplePassManager\Release\SimplePassManager.exe

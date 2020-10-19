@@ -112,7 +112,7 @@ void viewPass() {
 void savepass() {
 
 
-	// here we call the void functions so that can be usable leter on.
+	// here we call the void functions so that can be usable later on.
 	int main();
 	void filechecker();
 	void filewrite();
